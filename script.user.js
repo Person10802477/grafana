@@ -7,8 +7,6 @@
 // @updateURL    https://raw.githubusercontent.com/Person10802477/grafana/main/script.user.js
 // @downloadURL  https://raw.githubusercontent.com/Person10802477/grafana/main/script.user.js
 // @match        https://grafana-prod.prod.us-east-1.grafana.insights.aft.amazon.dev/d/6VbVrhOMk/myspd-performance-qualification*
-// @grant        GM_xmlhttpRequest
-// @connect      https://grafana-prod.prod.us-east-1.grafana.insights.aft.amazon.dev/d/6VbVrhOMk/myspd-performance-qualification*
 // ==/UserScript==
 
 (function() {
